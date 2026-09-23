@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "53e18ef3f4c3147d2dbf898c",
+  "owner": "pmgqqfht",
+  "repo": "page-42f88ee91147edba9a5df1f4",
+  "title": "Tffy",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "42f88ee91147edba9a5df1f4",
+      "a": "Tffy",
+      "b": "稳定全球clash加速器",
+      "entity": "Tffy",
+      "brand": "Tffy",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8d93b942e0ff9858d0d68d7d5586c87ea1731d3094d5d8fd535c0972495416a8",
+      "content": {
+        "primary_entity": "Tffy",
+        "keyword1": "Tffy",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，专注为跨区访问提供可选的套餐梯度与客户端订阅配置说明。基础版每月100GB流量、支持3台设备，适合轻度使用；旗舰版每月300GB、支持5台设备，并加入IPLC专线游戏加速优化；团队版每月1000GB、支持20台设备，附带企业定制路由与专属客户经理。三个版本均提供月付与年付价格，年付方案分别为150元、350元和850元。按设备数量、流量消耗和是否经常游戏来匹配套餐，再参照客户端文档完成订阅导入即可。",
+          "AI_HERO_SUBTITLE": "按设备与流量匹配套餐",
+          "AI_HERO_INTRO": "Tffy 提供多档套餐，覆盖普通线路到 IPLC 专线节点，可满足日常浏览、流媒体播放与游戏加速等不同场景。选择时先确认同时在线设备数，再核对每月流量额度，最后结合是否需要专线优化来决定版本。",
+          "AI_VISUAL_TITLE": "Tffy 套餐随设备而变",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖3至20台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案节省约两个月费用",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三方面整理选择思路。",
+          "AI_FEATURES_TITLE": "按需求锁定版本",
+          "AI_FEATURE_TITLE_1": "对照设备数量",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版可到20台，先数清常用手机、电脑与平板的总数。",
+          "AI_FEATURE_TITLE_2": "评估每月流量",
+          "AI_FEATURE_TEXT_2": "100GB适合轻度浏览与社交，300GB可覆盖流媒体和游戏，1000GB适合多设备长时间在线。",
+          "AI_FEATURE_TITLE_3": "权衡订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付方案约等于十个月花费，长期使用可选年付降低月均支出。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统适配的客户端各有差异，根据设备平台挑选对应版本并导入订阅。",
+          "AI_PLANS_TITLE": "三档套餐速览",
+          "AI_PLANS_INTRO": "基础版15元/月或150元/年，旗舰版35元/月或350元/年，团队版85元/月或850元/年。流量、设备数与节点类型随档位递增，按使用规模对照选择。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先选套餐，再确认适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "依据同时在线设备数与每月流量，从基础版、旗舰版、团队版中确定一个版本。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本的要求，确认电脑、手机或路由器可以正常安装。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端中打开订阅管理，粘贴订阅链接并更新节点列表，即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对档位再上手",
+          "AI_CLOSING_TEXT": "先确认设备数量和流量需求，再挑一个合适的套餐开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Tffy 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看设备数量：3 台以内选基础版，5 台左右选旗舰版，多人共用选团队版。再看月度流量需求，100GB、300GB 和 1000GB 对应不同使用强度。",
+          "AI_FAQ_QUESTION_2": "年付比月付划算吗？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，均相当于按月付省下两个月费用，长期使用可选年付。",
+          "AI_FAQ_QUESTION_3": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时部分设备可能无法同时连接。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_4": "选择与设备对应的客户端后，按客户端文档中的说明导入订阅链接。不同客户端操作步骤略有差异，以文档指引为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备，并提供 VIP 专属高带宽节点与企业定制路由，适合小团队或多人共用环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ayamqiv.cn",
+    "host": "ayamqiv.cn"
+  },
+  "file_hashes": {
+    "index.html": "821f9501a17d2f4d1ddd3e86b3dbd388225a5a5806f8b4c2c55d2fea76bf374d",
+    "sitemap.xml": "471c98c656491362cd1467b06c6c90b24f8d9924c9b98a67d4eccd08d6bd0947",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b73286dbc36f807939675a61159bce83902b94357be7db2910ea0d77fbc840cd",
+    "robots.txt": "274159e7c53cf5c90620abd03a4fbc6c4c22b9c4c3a744f81228029f1e502533",
+    "4a2d3b04977406955007e01ff8bd27b5.txt": "58b1d1e7a090a3f85763459ec08c83956d0866a1a490a44ad8af71493784a705"
+  },
+  "revision": "82b94844935ac9f5e99c7f43322b9c194ff6173fca942c247dc0e18f7ce331e0"
+}
